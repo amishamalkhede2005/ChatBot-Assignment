@@ -37,4 +37,3 @@ The chatbot will reply based on rules you added.
 
 Chatbot.java (main code)
 
- (project explanation)
